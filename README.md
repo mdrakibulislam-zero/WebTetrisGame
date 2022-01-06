@@ -29,7 +29,7 @@ Animatelo is a bunch of cool, fun, and cross-browser animations for you to use i
 ## Usage:
 - First of all you need to download the entire folder.
 - Then open the index.html file in any browser.
-- Use the arrow keys of your keyboard for play the game.
+- Use the arrow keys for play the game.
 - You're done! Enjoy the tetris game.
 - You also can play the tetris game online by using this <a href="https://mdrakibulislam-zero.github.io/WebTetrisGame/" > link</a>.
 
